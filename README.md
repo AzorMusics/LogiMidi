@@ -10,3 +10,7 @@ You can get LoopMidi here: https://www.tobias-erichsen.de/software/loopmidi.html
 
 Currently the Novation Palette for the RGB Launchpads is used.
 You can change the Palette in the Code (Class: Gmidi.cs)
+
+## Requirements
+
+The only thing required is a Logitech Keyboard which supports RGB. To display the Midi Output Velocity you can get a DAW like Ableton
